@@ -1,0 +1,11 @@
+mcp>=1.0,<2
+pyyaml>=6.0
+
+# Optional — needed only for a real retrosynthesis run:
+# rdkit>=2023.9        # SMILES validation with real sanitisation (validate_smiles)
+# aizynthfinder[all]   # the engine itself + ONNX/TensorFlow backends
+#   Install it from the repo root instead for the newest code:
+#   pip install -e .[all]
+# Model + stock files are NOT installed by pip; get them with:
+#   download_public_data my_folder
+# (see README.md)

@@ -12,6 +12,8 @@ supports multiple search algorithms and expansion policies.
 
 An introduction video can be found here: [https://youtu.be/r9Dsxm-mcgA](https://youtu.be/r9Dsxm-mcgA)
 
+> 📖 Persian (فارسی) guide: [README.fa.md](README.fa.md)
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
